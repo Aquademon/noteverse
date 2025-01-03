@@ -135,7 +135,7 @@ Special thanks to all our [contributors](https://github.com/Aquademon/noteverse/
 ---
 
 <div align="center">
-Made with ❤️ by the AquaDemon Development Team
+Made with ❤️ by the AquaDemon Development Team and Dark_Hunter
 
 Website [COMMING SOON] • Documentation [COMMING SOON] • Discord [COMMING SOON]
 
